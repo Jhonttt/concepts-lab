@@ -1,0 +1,15 @@
+{
+  "name": "concepts-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Laboratorio personal para aprender conceptos de ingeniería de software",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3",
+    "typescript": "^7.0.2"
+  }
+}

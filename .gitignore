@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias y builds (comunes)
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.pyc
+.venv/
+bin/
+obj/
+
+# Logs
+*.log
